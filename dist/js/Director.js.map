@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../js/Director.js"],"names":["Director"],"mappings":";;;;;;;;AAAA;IACaA,Q,WAAAA,Q","file":"Director.js","sourcesContent":["//导演类,控制游戏的逻辑\r\nexport class Director {\r\n    \r\n}"]}
